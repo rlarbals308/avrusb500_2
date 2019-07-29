@@ -1,0 +1,28 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Unplaced Symbol Availability Check                               )
+(                                                                     )
+(    Drawing          : AVRUSB500.brd                                 )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Mon Jul 29 17:04:47 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Current PSMPATH consists of:
+	.
+	symbols
+	..
+	../symbols
+	C:/Cadence/SPB_17.2/share/local/pcb/symbols
+	C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols
+	C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols
+	C:/USERS/USER/DESKTOP/ORCAD
+	WORK/PCD_LIB/PSM/
+
+
+All Symbols Found
+
+Total symbols placed:      34 out of 34
+
+
